@@ -1,6 +1,6 @@
 .item {
   display: flex;
-  justify-content: start;
+  /* justify-content: start; */
   align-items: center;
   gap: 16px;
   width: 300px;
