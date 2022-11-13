@@ -1,0 +1,35 @@
+.profile {
+  border-radius: 10px;
+  background-color: var(--primary-background-color);
+  width: 360px;
+}
+
+.description {
+  padding: 50px;
+  text-align: center;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--primary-text-color);
+  margin-top: 20px;
+}
+
+.tag {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--secondary-text-color);
+  margin-top: 10px;
+}
+
+.location {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--secondary-text-color);
+  margin-top: 10px;
+}
+
+.css.stats {
+  
+}
