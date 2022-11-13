@@ -12,7 +12,6 @@ export const App = () => {
   return (
     <div
       style={{
-        justifyContent: 'center',
         flexDirection: 'column',
         gap: '20px',
 
