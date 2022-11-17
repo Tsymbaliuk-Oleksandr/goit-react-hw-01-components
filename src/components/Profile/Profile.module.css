@@ -51,9 +51,10 @@
   width: 120px;
   background-color: var(--secondary-background-color);
   padding: 25px;
-  :hover {
-    background-color: var(--primary-background-color);
-  }
+}
+
+.statsposition:hover {
+  background-color: var(--primary-background-color);
 }
 
 .label {
